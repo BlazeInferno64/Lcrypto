@@ -10,7 +10,7 @@ def main():
         # For loop to check all the available files in the current directory
         for file in os.listdir():
             # Now we need to make sure that Lcrypto doesn't fo anything with Lcrypto.py, Lcrypto-key,key and Lcrypto-decrypt.py!
-            if file == "Lcrypto.py" or file == "Lcrypto-key.key" or file == "Lcrypto-decrypt.py":
+            if file == "Lcrypto.py" or file == "Lcrypto-key.key" or file == "Lcrypto-decrypt.py" or file == "Lcrypto.exe" or file == "Lcrypto-decrypt.exe":
                 continue # Skipping these files
             if os.path.isfile(file): # Checking is its a valid file or not
                 files.append(file) # Appending the available files to the files=[] list
