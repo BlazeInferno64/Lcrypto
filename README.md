@@ -1,6 +1,6 @@
 # Lcrypto
 Lcrypto is a simple ransomware which locks(encrypts) all of the files in the present directory where Lcrypto is
-|-------|
+
 
 # Note
 
@@ -22,7 +22,7 @@ For this project the secret keyword is `decrypt`.
 
 # Info
 The executables are provided at `/dist` folder! Before running them make sure that you have turn off any running antivirus or else it wouldn't run!
-|-----|
+
 
 # Bugs/Issues
 
