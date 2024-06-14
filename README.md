@@ -21,7 +21,8 @@ Follw the steps provided below -
 For this project the secret keyword is `decrypt`.
 
 # Info
-The executables are provided at `/dist` folder!. Before running them makw sure that you have turn off any running antivirus or else it wouldn't run!
+The executables are provided at `/dist` folder!
+Before running them make sure that you have turn off any running antivirus or else it wouldn't run!
 |-----|
 
 # Bugs/Issues
