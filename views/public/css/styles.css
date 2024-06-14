@@ -84,13 +84,14 @@ body{
     font-size: 1.2rem;
     border-radius: .3rem;
     color: #fff;
+    background: #2a2d2e;
 }
-.git{
+/*.git{
     background: linear-gradient(90deg,rgb(255, 0, 106),rgb(229, 99, 59));
 }
 .down{
     background: linear-gradient(90deg,rgb(15, 203, 137),rgb(59, 130, 229));
-}
+}*/
 .git:hover,.down:hover{
     scale: .98;
     box-shadow: 0 10px 20px 0 rgba(0,0,0,.6);
