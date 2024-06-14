@@ -6,7 +6,7 @@ Lcrypto is a simple ransomware which locks(encrypts) all of the files in the pre
 
 Please note that this just for educational purposes and shouldn't be misused to cause harm to anyone
 
-# Setup/Installations
+# Setup
 
 This ransomware needs python to work so if you don't have python then visit <a href="https://python.org/download">https://python.org/download</a> to download it for your respective OS
 
