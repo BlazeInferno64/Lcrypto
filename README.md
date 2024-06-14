@@ -1,5 +1,5 @@
 # Lcrypto
-Lcrypto is a simple ransomware which locks(encrypts) all of the files in the present directory where Lcrypto is
+Lcrypto is a simple ransomware which locks(encrypts) all of the files in the present directory where Lcrypto is currently
 
 
 # Note
