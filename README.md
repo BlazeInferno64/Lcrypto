@@ -8,7 +8,7 @@ Please note that this just for educational purposes and shouldn't be misused to 
 
 # Setup
 
-This ransomware needs python to work so if you don't have python then visit <a href="https://python.org/download">https://python.org/download</a> to download it for your respective OS
+This ransomware needs python to work so if you don't have python then visit <a href="https://python.org/downloads">https://python.org/downloads</a> to download it for your respective OS
 
 # How to use it
 Follw the steps provided below - 
